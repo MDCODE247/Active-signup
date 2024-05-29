@@ -152,9 +152,5 @@ body .password-field #toggler {
   .container {
     flex-direction: column;
   }
-  *{
-    padding: 0px;
-    width: 0%;
-    
-  }
+  
 }
