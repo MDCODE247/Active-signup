@@ -149,7 +149,7 @@ body .password-field #toggler {
 }
 
 @media (max-width: 650px) {
-  .container {
-    flex-direction: row;
+  /* .container {
+    flex-direction: row; */
   }
 }
