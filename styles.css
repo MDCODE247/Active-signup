@@ -148,7 +148,7 @@ body .password-field #toggler {
   cursor: pointer;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 750px) {
   .container {
     flex-direction: column;
   }
