@@ -153,8 +153,8 @@ body .password-field #toggler {
     flex-direction: column;
   }
   *{
-    padding: 10px;
-    width: 100%;
+    padding: 0px;
+    width: 0%;
     
   }
 }
