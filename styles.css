@@ -148,7 +148,7 @@ body .password-field #toggler {
   cursor: pointer;
 }
 
-@media (max-width: 650px) {
+@media (max-width: 300px) {
   .container {
     position: fixed;
   }
